@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Sunset palette from the mockups: #FFD60A → #FF7A45 → #FF2D92. -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient android:angle="315" android:startColor="#FFD60A" android:centerColor="#FF7A45" android:endColor="#FF2D92" />
+</shape>

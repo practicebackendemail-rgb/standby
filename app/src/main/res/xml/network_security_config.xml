@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Home Assistant usually runs on the local network over plain http (e.g. homeassistant.local:8123).
+     Public endpoints (Open-Meteo) still use https. -->
+<network-security-config>
+    <base-config cleartextTrafficPermitted="true" />
+</network-security-config>
